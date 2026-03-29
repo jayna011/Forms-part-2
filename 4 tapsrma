@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Form</title>
+</head>
+<body style="display:flex; justify-content:center; margin-top:100px;">
+
+<div style="display:flex; border:1px solid #ccc; border-radius:30px; overflow:hidden;">
+
+    <input type="text" placeholder="Search" 
+    style="padding:10px; border:none; outline:none; width:250px;">
+
+    <button style="border:none; padding:10px 15px; background:#eee;">
+        🔍
+    </button>
+
+</div>
+
+</body>
+</html>
