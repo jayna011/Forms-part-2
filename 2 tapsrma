@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Form</title>
+</head>
+<body style="text-align:center; margin-top:100px;">
+
+<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"><br><br>
+
+<input type="text" placeholder="Search Google or type a URL" style="width:300px; padding:10px; border-radius:20px; border:1px solid gray;">
+
+</body>
+</html>
