@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form 1</title>
+</head>
+<body>
+
+<form>
+    <input type="text" placeholder="Name"><br><br>
+    <input type="email" placeholder="Email">
+</form>
+
+</body>
+</html>
