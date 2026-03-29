@@ -1,0 +1,12 @@
+<form>
+    <label>
+        <input type="radio" name="gender" required> Erkek
+    </label>
+
+    <label>
+        <input type="radio" name="gender"> Hayal
+    </label>
+
+    <br><br>
+    <button>Submit</button>
+</form>
